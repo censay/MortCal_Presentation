@@ -19,7 +19,7 @@ three variables
 How does it work?
 ========================================================
 
-Normally we don't give away the secret sauce recipie, but
+Normally we don't give away the secret sauce recipe, but
 you seem like an eager investor so we'll make an exception
 
 We take both the yearly term and the APR and convert them to their monthly equivalents.  We then use an equation to calculate the payment.
